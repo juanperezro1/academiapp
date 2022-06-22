@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.academiapp">
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".app.MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_main"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_main_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AcademiApp"
+        android:usesCleartextTraffic="true">
+        <activity
+            android:name=".content.login.LoginActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".activities.EditActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.AddNewActivity"
+            android:exported="true">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+            <!-- &lt;!&ndash;&ndash;&gt; -->
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+
+        </activity>
+        <activity
+            android:name=".activities.MainActivity"
+            android:exported="true">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+            <!-- &lt;!&ndash;&ndash;&gt; -->
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+        <activity
+            android:name=".content.degree_work.DWorkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.degree_work.DegreeWorkActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.my_remits.details.PQRSDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.my_remits.MyRemitsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.audits.AuditsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.pqrs.edit.EditPQRSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.pqrs.PQRSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.home.HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".content.create_pqrs.anonymous.CreatePQRSAnonymousActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".content.create_pqrs.no_anonymous.CreatePQRSNoAnonymousActivity"
+            android:exported="false"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name=".content.create_pqrs.CreatePQRSActivity"
+            android:exported="false" />
+        <activity
+            android:name=".activities.SelectUniversityActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Informacion_general"
+        android:title="Informacion general"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/Personas"
+        android:title="Personas"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/Auditorias"
+        android:title="Auditorias"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/Asesorias"
+        android:title="Asesorias"
+        app:showAsAction="ifRoom" />
+
+</menu>
