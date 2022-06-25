@@ -50,7 +50,7 @@
                     android:layout_marginRight="@dimen/_4sdp"
                     android:fontFamily="@font/sofia_pro"
                     android:padding="@dimen/_8sdp"
-                    android:text="Ver mas"
+                    android:text="@string/see_more"
                     android:background="?selectableItemBackground"
                     android:textColor="@color/main"
                     android:textSize="@dimen/_11ssp" />

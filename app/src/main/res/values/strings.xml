@@ -1,6 +1,79 @@
 <resources>
     <string name="app_name">AcademiApp</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+    <!-- Login Translation -->
+    <string name="user" translatable="false">Usuario</string>
+    <string name="password" translatable="false">Contraseña</string>
+    <string name="login" translatable="false">Iniciar Sesión</string>
+
+    <!--Module Translations -->
+    <string name="see_more" translatable="false">Ver más</string>
+    <string name="save" translatable="false">Guardar</string>
+    <string name="add" translatable="false">Agregar</string>
+    <string name="loading" translatable="false">Cargando</string>
+    <string name="loggout_message" translatable="false">¿Desea salir de la sesión?</string>
+
+    <!-- Select University -->
+    <string name="select_university" translatable="false">Selecciona tu Universidad</string>
+    <string name="button_continue" translatable="false">Continuar</string>
+
+    <!-- PQRS Translations -->
+
+    <string name="pqrs_anonym" translatable="false">PQRS Anonima</string>
+    <string name="pqrs_not_anonym" translatable="false">PQRS No Anonima</string>
+
+    <string name="pqrs_information" translatable="false">Informacion de la PQRS</string>
+    <string name="pqrs_type" translatable="false">Tipo de PQRS</string>
+    <string name="pqrs_area" translatable="false">Área</string>
+    <string name="pqrs_message" translatable="false">Mensaje</string>
+    <string name="pqrs_send" translatable="false">Enviar</string>
+
+    <string name="document_type" translatable="false">Tipo de documento</string>
+    <string name="document_number" translatable="false">Número de documento</string>
+    <string name="first_name" translatable="false">Primer nombre</string>
+    <string name="middle_name" translatable="false">Segundo nombre</string>
+    <string name="telefonic_number" translatable="false">Número telefónico</string>
+    <string name="email" translatable="false">Correo Electrónico</string>
+
+    <string name="pqrs_entry_day" translatable="false">Fecha de entrada</string>
+    <string name="pqrs_deadline" translatable="false">Fecha limite</string>
+    <string name="pqrs_status" translatable="false">Estatus</string>
+    <string name="pqrs_observation" translatable="false">Observación</string>
+
+    <string name="pqrs_by" translatable="false">Elaborada por</string>
+
+
+
+
+    <!-- Work Degree Translations -->
+
+    <string name="works_degree" translatable="false">Trabajos de grado</string>
+    <string name="works_degree_start_date" translatable="false">Fecha de inicio</string>
+    <string name="works_degree_end_date" translatable="false">Fecha de finalización</string>
+    <string name="works_degree_exposition_date" translatable="false">Fecha de exposición</string>
+    <string name="works_degree_status" translatable="false">Estatus</string>
+    <string name="general_information" translatable="false">Información general</string>
+    <string name="people" translatable="false">Personas</string>
+    <string name="title" translatable="false">Titulo</string>
+    <string name="resume" translatable="false">Resumen</string>
+    <string name="modality" translatable="false">Modalidad</string>
+    <string name="areas" translatable="false">Áreas</string>
+    <string name="key_words" translatable="false">Palabras clave</string>
+    <string name="ods" translatable="false">Ods</string>
+    <string name="work_degree_title" translatable="false">Titulo</string>
+    <string name="work_degree_description" translatable="false">Descripción</string>
+    <string name="keyword" translatable="false">Palabra clave, palabra clave</string>
+
+    <string name="consultancy" translatable="false">Asesoria</string>
+    <string name="consultancy_type" translatable="false">Tipo de asesoria</string>
+    <string name="consultancy_person" translatable="false">Persona</string>
+
+    <string name="work_degree_role" translatable="false">Rol</string>
+
+
+
+
+
 </resources>

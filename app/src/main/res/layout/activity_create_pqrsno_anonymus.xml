@@ -19,7 +19,7 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Información PQRS"
+        android:text="@string/pqrs_information"
         android:textColor="@color/black"
         android:textSize="@dimen/_18ssp"
         android:fontFamily="@font/sofia_pro"
@@ -56,7 +56,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Tipo de documento"
+                    android:text="@string/document_type"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -99,7 +99,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Número de documento"
+                    android:text="@string/document_number"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -127,7 +127,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Primer nombre"
+                    android:text="@string/first_name"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -155,7 +155,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Segundo nombre"
+                    android:text="@string/middle_name"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -183,7 +183,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Número telefónico"
+                    android:text="@string/telefonic_number"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -211,7 +211,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="E-mail"
+                    android:text="@string/email"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -238,7 +238,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Tipo de PQRS"
+                    android:text="@string/pqrs_type"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -282,7 +282,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Área"
+                    android:text="@string/pqrs_area"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -326,7 +326,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Mensaje"
+                    android:text="@string/pqrs_message"
                     android:textColor="@color/main_dark"
                     android:textSize="@dimen/_13ssp" />
 
@@ -337,7 +337,6 @@
                     android:layout_marginTop="@dimen/_4sdp"
                     android:background="@drawable/spinner_shape"
                     android:gravity="top"
-                    android:hint="mensaje"
                     android:minLines="5"
                     android:padding="@dimen/_6sdp"
                     android:textSize="@dimen/_13ssp" />
@@ -349,7 +348,7 @@
                     android:layout_marginTop="@dimen/_32sdp"
                     android:background="@color/main_light"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="Enviar"
+                    android:text="@string/pqrs_send"
                     android:textAllCaps="false"
                     android:textColor="@color/white"
                     android:textSize="@dimen/_14ssp" />
@@ -365,7 +364,7 @@
         android:layout_height="wrap_content"
         android:background="@android:color/transparent"
         android:fontFamily="@font/sofia_pro"
-        android:text="Iniciar Sesión"
+        android:text="@string/login"
         android:textAllCaps="false"
         android:textColor="@color/main"
         android:textSize="@dimen/_14ssp"

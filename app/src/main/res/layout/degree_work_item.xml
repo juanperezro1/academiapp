@@ -48,7 +48,8 @@
                     android:id="@+id/btnedit"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginRight="@dimen/_4sdp"
+
+                    android:layout_marginRight="@dimen/_5sdp"
                     android:fontFamily="@font/sofia_pro"
                     android:padding="@dimen/_8sdp"
                     android:text="Edit"
@@ -60,10 +61,9 @@
                     android:id="@+id/btnMore"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginRight="@dimen/_4sdp"
                     android:fontFamily="@font/sofia_pro"
                     android:padding="@dimen/_8sdp"
-                    android:text="See More"
+                    android:text="@string/see_more"
                     android:background="?selectableItemBackground"
                     android:textColor="#1C4A84"
                     android:textSize="@dimen/_11ssp" />

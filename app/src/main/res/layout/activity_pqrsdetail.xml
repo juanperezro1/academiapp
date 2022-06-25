@@ -87,7 +87,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/sofia_pro"
-                        android:text="Tipo PQRS"
+                        android:text="@string/pqrs_type"
                         android:textColor="@color/main"
                         android:textSize="@dimen/_12ssp" />
 
@@ -114,7 +114,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="@font/sofia_pro"
-                        android:text="Fecha de entrada"
+                        android:text="@string/pqrs_entry_day"
                         android:textColor="@color/main"
                         android:textSize="@dimen/_12ssp" />
 
@@ -155,7 +155,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/sofia_pro"
-                            android:text="Fecha limite"
+                            android:text="@string/pqrs_deadline"
                             android:textColor="@color/main"
                             android:textSize="@dimen/_12ssp" />
 
@@ -182,7 +182,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/sofia_pro"
-                            android:text="Días restantes"
+                            android:text=""
                             android:textColor="@color/main"
                             android:textSize="@dimen/_12ssp" />
 
@@ -216,7 +216,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/sofia_pro"
-                            android:text="Estado PQRS"
+                            android:text="@string/pqrs_status"
                             android:textColor="@color/main"
                             android:textSize="@dimen/_12ssp" />
 
@@ -243,7 +243,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/sofia_pro"
-                            android:text="Área"
+                            android:text="@string/pqrs_area"
                             android:textColor="@color/main"
                             android:textSize="@dimen/_12ssp" />
 
@@ -277,7 +277,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:fontFamily="@font/sofia_pro"
-                            android:text="Observación"
+                            android:text="@string/pqrs_observation"
                             android:textColor="@color/main"
                             android:textSize="@dimen/_12ssp" />
 
@@ -290,7 +290,6 @@
                             android:background="@drawable/edittext_shape_2"
                             android:minLines="4"
                             android:padding="@dimen/_4sdp"
-                            android:text="Observación"
                             android:textColor="@color/black"
                             android:textSize="@dimen/_9ssp" />
 

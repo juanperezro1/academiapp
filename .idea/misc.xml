@@ -4,15 +4,47 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_add_new.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_add_new2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_audits.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_create_pqranonymus.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_create_pqrsactivity.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_create_pqrsno_anonymus.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_degree_work.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_edit.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_edit_pqrsactivity.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_my_remits.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_new.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_pqrsactivity.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_pqrsdetail.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/activity_select_university.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/asesorias_design.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/audit_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/auditorias_design.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/consukltanc_edit_dialog.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/custom_progress.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/degree_work_item.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/editpersonlistlayout.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_asesorias.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_asessorias.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_auditorias.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_authorties.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_informacion_general.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_informacion_general_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_informacion_general_edit_java.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_informacion_general_java.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_personas.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_personas_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_personas_edit_jva.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/fragment_personas_java.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/perosna_edit_dialog.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/perosna_odsdd_dialog.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/personas_design.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/pqrs_type_item.xml" value="0.358695652173913" />
         <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/questionpopup.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Camilo/Desktop/Academiapp Movil/AcademiAppAndroid 3/app/src/main/res/layout/remit_dialog.xml" value="0.358695652173913" />
       </map>
     </option>
   </component>

@@ -70,7 +70,7 @@
         android:layout_marginStart="@dimen/_8sdp"
         android:layout_marginTop="@dimen/_24sdp"
         android:fontFamily="@font/sofia_pro"
-        android:text="Trabajos de trabajo"
+        android:text="@string/works_degree"
         android:textColor="@color/black"
         android:textSize="@dimen/_17ssp"
         app:layout_constraintStart_toStartOf="parent"

@@ -45,7 +45,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="PQRS anónima"
+                    android:text="@string/pqrs_anonym"
                     android:textColor="@color/white"
                     android:textSize="@dimen/_15ssp" />
 
@@ -78,7 +78,7 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:fontFamily="@font/sofia_pro"
-                    android:text="PQRS no anónima"
+                    android:text="@string/pqrs_not_anonym"
                     android:textColor="@color/white"
                     android:textSize="@dimen/_15ssp" />
 

@@ -54,7 +54,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/sofia_regular"
-            android:text="Usuario"
+            android:text="@string/user"
             android:textColor="@color/black"
             android:textSize="@dimen/_14ssp" />
 
@@ -80,7 +80,7 @@
             android:layout_height="wrap_content"
             android:fontFamily="@font/sofia_regular"
             android:layout_marginTop="@dimen/_8sdp"
-            android:text="Contraseña"
+            android:text="@string/password"
             android:textColor="@color/black"
             android:textSize="@dimen/_14ssp" />
 
@@ -120,7 +120,7 @@
             android:layout_height="@dimen/_40sdp"
             android:backgroundTint="@color/main_light"
             android:fontFamily="@font/sofia_pro"
-            android:text="Iniciar sesión"
+            android:text="@string/login"
             android:textSize="@dimen/_13ssp" />
 
         <Button
