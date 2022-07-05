@@ -4,73 +4,73 @@
     <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
 
     <!-- Login Translation -->
-    <string name="user" translatable="false">Usuario</string>
-    <string name="password" translatable="false">Contraseña</string>
-    <string name="login" translatable="false">Iniciar Sesión</string>
+    <string name="user" translatable="false">User</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="login" translatable="false">Login</string>
 
     <!--Module Translations -->
-    <string name="see_more" translatable="false">Ver más</string>
-    <string name="save" translatable="false">Guardar</string>
-    <string name="add" translatable="false">Agregar</string>
-    <string name="loading" translatable="false">Cargando</string>
-    <string name="loggout_message" translatable="false">¿Desea salir de la sesión?</string>
+    <string name="see_more" translatable="false">See more</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="add" translatable="false">Add</string>
+    <string name="loading" translatable="false">Loading</string>
+    <string name="loggout_message" translatable="false">Do you want to leave the session?</string>
 
     <!-- Select University -->
-    <string name="select_university" translatable="false">Selecciona tu Universidad</string>
-    <string name="button_continue" translatable="false">Continuar</string>
+    <string name="select_university" translatable="false">Select your University</string>
+    <string name="button_continue" translatable="false">Continue</string>
 
     <!-- PQRS Translations -->
 
-    <string name="pqrs_anonym" translatable="false">PQRS Anonima</string>
-    <string name="pqrs_not_anonym" translatable="false">PQRS No Anonima</string>
+    <string name="pqrs_anonym" translatable="false">PQRS Anonimous</string>
+    <string name="pqrs_not_anonym" translatable="false">PQRS No Anonimous</string>
 
-    <string name="pqrs_information" translatable="false">Informacion de la PQRS</string>
-    <string name="pqrs_type" translatable="false">Tipo de PQRS</string>
-    <string name="pqrs_area" translatable="false">Área</string>
-    <string name="pqrs_message" translatable="false">Mensaje</string>
-    <string name="pqrs_send" translatable="false">Enviar</string>
+    <string name="pqrs_information" translatable="false">PQRS Information</string>
+    <string name="pqrs_type" translatable="false">PQRS Type</string>
+    <string name="pqrs_area" translatable="false">Area</string>
+    <string name="pqrs_message" translatable="false">Message</string>
+    <string name="pqrs_send" translatable="false">Send</string>
 
-    <string name="document_type" translatable="false">Tipo de documento</string>
-    <string name="document_number" translatable="false">Número de documento</string>
-    <string name="first_name" translatable="false">Primer nombre</string>
-    <string name="middle_name" translatable="false">Segundo nombre</string>
-    <string name="telefonic_number" translatable="false">Número telefónico</string>
-    <string name="email" translatable="false">Correo Electrónico</string>
+    <string name="document_type" translatable="false">Document Type</string>
+    <string name="document_number" translatable="false">Document Number</string>
+    <string name="first_name" translatable="false">First Name</string>
+    <string name="middle_name" translatable="false">Second Name</string>
+    <string name="telefonic_number" translatable="false">Phone Number</string>
+    <string name="email" translatable="false">Email</string>
 
-    <string name="pqrs_entry_day" translatable="false">Fecha de entrada</string>
-    <string name="pqrs_deadline" translatable="false">Fecha limite</string>
-    <string name="pqrs_status" translatable="false">Estatus</string>
-    <string name="pqrs_observation" translatable="false">Observación</string>
+    <string name="pqrs_entry_day" translatable="false">Entry Date</string>
+    <string name="pqrs_deadline" translatable="false">Deadline Date</string>
+    <string name="pqrs_status" translatable="false">Status</string>
+    <string name="pqrs_observation" translatable="false">Observation</string>
 
-    <string name="pqrs_by" translatable="false">Elaborada por</string>
+    <string name="pqrs_by" translatable="false">Made by</string>
 
 
 
 
     <!-- Work Degree Translations -->
 
-    <string name="works_degree" translatable="false">Trabajos de grado</string>
-    <string name="works_degree_start_date" translatable="false">Fecha de inicio</string>
-    <string name="works_degree_end_date" translatable="false">Fecha de finalización</string>
-    <string name="works_degree_exposition_date" translatable="false">Fecha de exposición</string>
-    <string name="works_degree_status" translatable="false">Estatus</string>
-    <string name="general_information" translatable="false">Información general</string>
-    <string name="people" translatable="false">Personas</string>
-    <string name="title" translatable="false">Titulo</string>
-    <string name="resume" translatable="false">Resumen</string>
-    <string name="modality" translatable="false">Modalidad</string>
-    <string name="areas" translatable="false">Áreas</string>
-    <string name="key_words" translatable="false">Palabras clave</string>
+    <string name="works_degree" translatable="false">Work Degrees</string>
+    <string name="works_degree_start_date" translatable="false">Start Date</string>
+    <string name="works_degree_end_date" translatable="false">End Date</string>
+    <string name="works_degree_exposition_date" translatable="false">Exposition Date</string>
+    <string name="works_degree_status" translatable="false">Status</string>
+    <string name="general_information" translatable="false">General Information</string>
+    <string name="people" translatable="false">People</string>
+    <string name="title" translatable="false">Title</string>
+    <string name="resume" translatable="false">Resume</string>
+    <string name="modality" translatable="false">Modality</string>
+    <string name="areas" translatable="false">Areas</string>
+    <string name="key_words" translatable="false">Key Words</string>
     <string name="ods" translatable="false">Ods</string>
-    <string name="work_degree_title" translatable="false">Titulo</string>
-    <string name="work_degree_description" translatable="false">Descripción</string>
-    <string name="keyword" translatable="false">Palabra clave, palabra clave</string>
+    <string name="work_degree_title" translatable="false">Title</string>
+    <string name="work_degree_description" translatable="false">Description</string>
+    <string name="keyword" translatable="false">Keyword, Keyword</string>
 
-    <string name="consultancy" translatable="false">Asesoria</string>
-    <string name="consultancy_type" translatable="false">Tipo de asesoria</string>
-    <string name="consultancy_person" translatable="false">Persona</string>
+    <string name="consultancy" translatable="false">Consultancy</string>
+    <string name="consultancy_type" translatable="false">Consultancy Type</string>
+    <string name="consultancy_person" translatable="false">Person</string>
 
-    <string name="work_degree_role" translatable="false">Rol</string>
+    <string name="work_degree_role" translatable="false">Role</string>
 
 
 
